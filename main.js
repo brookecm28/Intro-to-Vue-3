@@ -3,7 +3,7 @@ const app = Vue.createApp({
         return {
             product: 'Boots',
             description: 'Combat, CAF lacing, black.',
-            image: './assets/imaes/socks_green.jpg'
+            image: './assets/images/socks_green.jpg'
         }
     }
 })
